@@ -1,5 +1,5 @@
 # Article  
-I found this this article interesting  ["I made my own git!"](https://tonystr.net/blog/git_immitation) 
+I found this article interesting  ["I made my own git!"](https://tonystr.net/blog/git_immitation) 
  
 ## Summary
 
@@ -8,4 +8,10 @@ This article is written by [Tony Str](https://github.com/tonystr) and explores a
 I found this piece particularly interesting because understanding the inner workings of the tools we use every day is always valuable. I hope it inspires you as well!
 
 ## Proofread
-Article checked for typos
+ARTICLE CHECKED FOR TYPOS
+
+# Raissa's review
+
+This article is quite nice and its author shows a step-by-step process of how git uses hashing algorithms and how he learned of this with code screenshots to show his progress. A very good learning piece.
+
+# Corrected remaining typos
